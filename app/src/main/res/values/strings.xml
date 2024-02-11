@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Register and Login</string>
+    <string name="login_register_app">Login-Register App</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="date_of_birth_dd_mm_yyyy">Date of Birth (dd/mm/yyyy)</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="default_user">DefaultUser:defuser@gmail.com \n Default Password: 654321</string>
+    <string name="userack">LOGGED IN SUCCESSFULLY</string>
+    <string name="e_mail">E-mail</string>
+    <string name="welcome">Welcome</string>
+</resources>
